@@ -1,6 +1,5 @@
-# sprint_06_project
+# Video Game Industry Analysis Project - Market Trends and Sales Prediction
 
-Video Game Industry Analysis Project - Market Trends and Sales Prediction
 ### Problem Context:
 Development of a comprehensive data analysis to understand video game industry trends and identify the most promising platforms, genres, and regions for game development and marketing strategies, using historical sales data from 1980-2016 to make predictions for 2017.
 
